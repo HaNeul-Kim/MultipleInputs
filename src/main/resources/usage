@@ -1,0 +1,1 @@
+hadoop jar MultipleInputs-1.0-SNAPSHOT.jar multipleInputs /user/hskimsky/input/first /user/hskimsky/input/second /user/hskimsky/input/third /user/hskimsky/output/multipletest_00
